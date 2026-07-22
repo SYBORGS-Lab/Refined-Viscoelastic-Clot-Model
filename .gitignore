@@ -1,0 +1,16 @@
+# Ignore specific folders
+# DARPA Meetings/
+# Reference/
+# Weekly Group Meeting/
+slprj/
+# Fig/
+.DS_Store
+
+# Ignore specific file types
+*.pptx
+*.pptm
+*.pdf
+# *.png
+# *.fig
+*.svg
+*.asv
